@@ -74,7 +74,7 @@ legend{
 ${msg}
 <br><br>
 
-<a href="login"><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX3oQt2QLh9Nh-pk_Q1Q6hNvgn35BrZs-pY-ROMH8ZG9otkCSl'/><br>Login</a>?
+<a href="loginUser"><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX3oQt2QLh9Nh-pk_Q1Q6hNvgn35BrZs-pY-ROMH8ZG9otkCSl'/><br>Login</a>?
 </fieldset>
 </form>
 </div>
